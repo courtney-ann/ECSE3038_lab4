@@ -62,12 +62,11 @@ section {
     padding: 2px;   
 }
 
-p {
+span {
+    display:grid;
     text-align: left;
     padding:3px;
     font-family: Lucida Sans Regular;
     font-size: 13;
 }
-
-
 
